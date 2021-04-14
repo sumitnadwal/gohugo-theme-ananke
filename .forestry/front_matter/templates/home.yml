@@ -1,4 +1,10 @@
 ---
 label: Home
 hide_body: true
-fields: []
+fields:
+- name: yourtitle
+  type: include
+  config: {}
+  template: home
+  label: YourTitle
+  description: cription hereDes
